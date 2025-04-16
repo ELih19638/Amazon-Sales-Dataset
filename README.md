@@ -3,7 +3,7 @@
 This folder contains the dataset `amazon.csv`.
 
 ## Dataset Dimensions
-- **Number of Observations**: 500+ (based on your provided sample).
+- **Number of Observations**: 1466
 - **Number of Variables**: 16
 
 ## Data Dictionary
