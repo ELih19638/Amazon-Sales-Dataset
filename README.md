@@ -22,7 +22,7 @@ Below is a description of the key variables in the dataset:
 | `about_product`       | Key features or highlights of the product.                                                      |
 | `user_id`             | Unique identifier for the customer/user.                                                        |
 
-For a complete data dictionary of all variables, refer to the [full dataset here] ([https://github.com/ELih19638/Amazon-Sales-Dataset/blob/main/amazon%20(1).csv]).
+For a complete data dictionary of all variables, refer to the [full dataset here](https://github.com/ELih19638/Amazon-Sales-Dataset/blob/main/amazon%20(1).csv).
 
 ## Notes
 The dataset provides detailed information about products, including their pricing, categories, customer reviews, and more.
