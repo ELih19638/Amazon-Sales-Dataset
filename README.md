@@ -4,7 +4,7 @@ This folder contains the dataset `amazon.csv`.
 
 ## Dataset Dimensions
 - **Number of Observations**: 1465
-- **Number of Variables**: 16
+- **Number of Variables**: 15
 
 ## Data Dictionary
 Below is a description of the key variables in the dataset:
@@ -19,10 +19,10 @@ Below is a description of the key variables in the dataset:
 | `discount_percentage` | Percentage discount on the product.                                                             |
 | `rating`              | Average customer rating for the product.                                                        |
 | `rating_count`        | The number of customer ratings received.                                                        |
-| `about_product`       | Key features or highlights of the product.                                                      |
-| `user_id`             | Unique identifier for the customer/user.                                                        |
+| `sub_category_1`     | Main category (top level) the product belongs to. |
+| `sub_category_2`     | Subcategory under the main category. |
 
-For a complete data dictionary of all variables, refer to the [full dataset here](https://imailsunwayedu-my.sharepoint.com/:x:/g/personal/20009502_imail_sunway_edu_my/Edx8vXgu071PosHAWyRB5BEBIcehaZQsR6Z38zfVgqPmQw?e=jNIaQI).
+For a complete data dictionary of all variables, refer to the [full dataset here].
 
 ## Notes
 The dataset provides detailed information about products, including their pricing, categories, customer reviews, and more.
