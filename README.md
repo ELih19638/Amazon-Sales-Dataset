@@ -22,7 +22,7 @@ Below is a description of the key variables in the dataset:
 | `sub_category_1`     | Main category (top level) the product belongs to. |
 | `sub_category_2`     | Subcategory under the main category. |
 
-For a complete data dictionary of all variables, refer to the [full dataset here].
+For a complete data dictionary of all variables, refer to the [full dataset here]
 
 ## Notes
 The dataset provides detailed information about products, including their pricing, categories, customer reviews, and more.
